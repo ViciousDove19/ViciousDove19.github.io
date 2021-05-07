@@ -6,9 +6,9 @@ import jsIcon from "./images/javascript.svg"
 import designIcon from "./images/design.svg"
 import codeIcon from "./images/code.svg"
 import pythonIcon from "./images/python.svg"
-import businessIcon from "./images/business.svg"
+//import businessIcon from "./images/business.svg"
 import photoshopIcon from "./images/photoshop.svg"
-import LinkedInIcon from "./images/linkedIn.svg"
+////import LinkedInIcon from "./images/linkedIn.svg"
 
 // Social Icon
 import githubIcon from "./images/github.svg"
@@ -127,7 +127,7 @@ export default {
         "I've knowledge of Adobe's design tools like Photoshop, Illustrator, After Effects and XD. I'm also familiar with 3D softwares like Blender, Unity and Fusion 360.",
     },
     {
-      img: businessIcon,
+      img: cssIcon,
       para:
         "I'm well versed with various project management tools and techniques and have applied them through my positions of responsibilty at IITM. I possess business development skills learnt through reading voraciously and interacting with leaders.",
     },
@@ -162,7 +162,7 @@ export default {
       url: "https://github.com/ViciousDove19" 
     },
     {
-      img: LinkedInIcon,
+      img: cssIcon,
       url: "https://www.linkedin.com/in/chinmay-raut-09307a15a/",
     },
     {
