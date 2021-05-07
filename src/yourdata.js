@@ -8,7 +8,7 @@ import codeIcon from "./images/code.svg"
 import pythonIcon from "./images/python.svg"
 import businessIcon from "./images/business.svg"
 import photoshopIcon from "./images/photoshop.svg"
-import LinkedInIcon from "./images/LinkedIn.svg"
+import LinkedInIcon from "./images/linkedIn.svg"
 
 // Social Icon
 import githubIcon from "./images/github.svg"
