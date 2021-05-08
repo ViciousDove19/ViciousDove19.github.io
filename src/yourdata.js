@@ -34,11 +34,11 @@ export default {
   name: "Chinmay.",
   headerTagline: [
     //Line 1 For Header
-    "Building products,",
+    "I Like To",
     //Line 2 For Header
-    "Crafting experiences.",
+    "Build Products",
     //Line 3 For Header
-    "Understanding ourselves.",
+    "& Craft Experiences.",
   ],
   //   Header Paragraph
   headerParagraph:
@@ -147,14 +147,14 @@ export default {
 
   //   Promotion Section --------------------------
 
-  promotionHeading: "Connect With Me",
+  promotionHeading: "Connect",
   promotionPara:
     "If you have a project in mind where I could help or want to contribute to any of my projects, do reach out. I believe the world could be changed if the right people come together. Looking forward to an exciting conversation.",
   // End Promotion Section -----------------
 
   //   Contact Section --------------
 
-  contactSubHeading: "Let's create your next experience together",
+  contactSubHeading: "Here's to meaningful conversations",
   social: [
     // Add Or Remove The Link Accordingly
     { 
