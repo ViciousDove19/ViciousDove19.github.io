@@ -34,11 +34,11 @@ export default {
   name: "Chinmay.",
   headerTagline: [
     //Line 1 For Header
-    "I Like To",
+    "I like to",
     //Line 2 For Header
-    "Build Products",
+    "build products",
     //Line 3 For Header
-    "& Craft Experiences.",
+    "& craft experiences.",
   ],
   //   Header Paragraph
   headerParagraph:
