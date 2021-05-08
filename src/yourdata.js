@@ -8,7 +8,7 @@ import codeIcon from "./images/code.svg"
 import pythonIcon from "./images/python.svg"
 //import businessIcon from "./images/business.svg"
 import photoshopIcon from "./images/photoshop.svg"
-////import LinkedInIcon from "./images/linkedIn.svg"
+import LinkedInIcon from "./images/linkedin.svg"
 
 // Social Icon
 import githubIcon from "./images/github.svg"
@@ -162,7 +162,7 @@ export default {
       url: "https://github.com/ViciousDove19" 
     },
     {
-      img: cssIcon,
+      img: LinkedInIcon,
       url: "https://www.linkedin.com/in/chinmay-raut-09307a15a/",
     },
     {
