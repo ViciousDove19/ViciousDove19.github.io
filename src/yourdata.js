@@ -15,6 +15,7 @@ import githubIcon from "./images/github.svg"
 import codepenIcon from "./images/codepen.svg"
 import dribbbleIcon from "./images/dribbble.svg"
 import instagramIcon from "./images/instagram.svg"
+import behanceIcon from "./images/behance.svg"
 
 
 
@@ -23,6 +24,7 @@ import MoM from './images/mom.png'
 import deer from './images/deer.png'
 import nightwonder from './images/nightwonder.jpg'
 import dystopia from './images/dystopia.jpg'
+import reddit from './images/reddit.jpg'
 
 
 
@@ -72,14 +74,14 @@ export default {
       url: "https://play.google.com/store/apps/details?id=org.godotengine.scotlandyard",
     },
     {
-      title: "Energy Sector in India - Case Study", //Project Title - Add Your Project Title Here
+      title: "Psychometric Profiling for Reddit - a Case Study", //Project Title - Add Your Project Title Here
       para:
-        "Detailed case study on the energy sector of India and possible business opportunities.", // Add Your Service Type Here
+        "Detailed case study on defining metrics for personality analytics and its impementation in neuromarketing.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        dystopia,
+        reddit,
       //Project URL - Add Your Project Url Here
-      url: "https://dystopianfuturemovies.com/",
+      url: "https://rautchinmay19.medium.com/psychometric-profiling-for-reddit-a-case-study-3339f2d492bc",
     },
     /*
     If You Want To Add More Project just Copy and Paste This At The End
@@ -166,8 +168,8 @@ export default {
       url: "https://www.linkedin.com/in/chinmay-raut-09307a15a/",
     },
     {
-      img: dribbbleIcon,
-      url: "https://dribbble.com/viciousdove19",
+      img: behanceIcon,
+      url: "https://www.behance.net/chinmayraut1",
     },
     {
       img: instagramIcon,
