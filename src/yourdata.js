@@ -21,11 +21,13 @@ import behanceIcon from "./images/behance.svg"
 
 //image files
 import MoM from './images/mom.png'
+import needle from './images/needle.png'
 import deer from './images/deer.png'
 import nightwonder from './images/nightwonder.jpg'
 import dystopia from './images/dystopia.jpg'
 import reddit from './images/reddit.jpg'
 import brainbg from './images/brain.jpg'
+import stationary from './images/stationary.jpg'
 
 
 
@@ -45,7 +47,7 @@ export default {
   ],
   //   Header Paragraph
   headerParagraph:
-    "I'm a third year student currently pursuing a dual degree in Engineering Design at IIT Madras.",
+    "I'm a fourth year undergraduate currently pursuing a dual degree in Engineering Design at IIT Madras.",
 
   //Contact Email
   contactEmail: "rautchinmay19@gmail.com",
@@ -93,6 +95,26 @@ export default {
         brainbg,
       //Project URL - Add Your Project Url Here
       url: "https://viciousdove19.itch.io/ar-organ-visualizer",
+    },
+    {
+      title: "Optimal Needle Trajectory Generation", //Project Title - Add Your Project Title Here
+      para:
+        "End-to-end deep reinforcement learning pipeline to assist neurosurgeons with needle trajectory generation for tumor ablation.", // Add Your Service Type Here
+      //Project Image - Add Your Project Image Here
+      imageSrc:
+        needle,
+      //Project URL - Add Your Project Url Here
+      url: "https://niravatgit.github.io/INSPIRELab/team.html#team",
+    },
+    {
+      title: "E-commerce Website Design", //Project Title - Add Your Project Title Here
+      para:
+        "Web-site design implementing a neuromorphic theme using figma and photoshop.", // Add Your Service Type Here
+      //Project Image - Add Your Project Image Here
+      imageSrc:
+        stationary,
+      //Project URL - Add Your Project Url Here
+      url: "https://www.figma.com/file/1lhlChvOLfkiVIwRmFE1wr/Craftowl?node-id=9%3A0",
     },
     /*
     If You Want To Add More Project just Copy and Paste This At The End
@@ -152,7 +174,7 @@ export default {
     {
       img: codeIcon,
       para:
-        "I have explored and implemented technologies like Cloud computing, Game development and Vitual reality. I'm currently learning more about Blockchain and Computer Vision and their role in Healthcare.",
+        "I have explored and implemented technologies like Cloud computing, Game development and Vitual reality. I'm well versed with virtual reality development, especially in healthcare.",
     },
   ],
 
