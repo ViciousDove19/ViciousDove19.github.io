@@ -25,6 +25,7 @@ import deer from './images/deer.png'
 import nightwonder from './images/nightwonder.jpg'
 import dystopia from './images/dystopia.jpg'
 import reddit from './images/reddit.jpg'
+import brainbg from './images/brain.jpg'
 
 
 
@@ -82,6 +83,16 @@ export default {
         reddit,
       //Project URL - Add Your Project Url Here
       url: "https://rautchinmay19.medium.com/psychometric-profiling-for-reddit-a-case-study-3339f2d492bc",
+    },
+    {
+      title: "Augmented Reality Organ Visualizer", //Project Title - Add Your Project Title Here
+      para:
+        "AR android app to learn human anatomy intuitively", // Add Your Service Type Here
+      //Project Image - Add Your Project Image Here
+      imageSrc:
+        brainbg,
+      //Project URL - Add Your Project Url Here
+      url: "https://viciousdove19.itch.io/ar-organ-visualizer",
     },
     /*
     If You Want To Add More Project just Copy and Paste This At The End
