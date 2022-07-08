@@ -147,9 +147,9 @@ export default {
 
   skills: [
     {
-      img: jsIcon,
+      img: designIcon,
       para:
-        "Nikhil bkl",
+        "I have experience writing for the entrepreneurship magazine of IIT Madras. I have participated in many writing and screenwriting competitions. I mostly write about tech and behavioural pychology apart from speculative ficiton.",
     },
     {
       img: pythonIcon,
