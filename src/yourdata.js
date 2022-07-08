@@ -149,7 +149,7 @@ export default {
     {
       img: jsIcon,
       para:
-        "I've used JavaScript, HTML and CSS immensely to create meaningful web experiences. I'm skilled in libraries like React, Vue, and three.js.",
+        "Nikhil bkl",
     },
     {
       img: pythonIcon,
