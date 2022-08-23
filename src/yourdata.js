@@ -189,26 +189,26 @@ export default {
 
   //   Contact Section --------------
 
-  contactSubHeading: "Here's to meaningful conversations",
-  social: [
+  //contactSubHeading: "Here's to meaningful conversations",
+  //social: [
     // Add Or Remove The Link Accordingly
-    { 
-      img: githubIcon,
-      url: "https://github.com/ViciousDove19" 
-    },
-    {
-      img: LinkedInIcon,
-      url: "https://www.linkedin.com/in/chinmay-raut-09307a15a/",
-    },
-    {
-      img: behanceIcon,
-      url: "https://www.behance.net/chinmayraut1",
-    },
-    {
-      img: instagramIcon,
-      url: "https://www.instagram.com/rautchinmay19/",
-    },
-  ],
+    //{ 
+     // img: githubIcon,
+     // url: "https://github.com/ViciousDove19" 
+    //},
+    //{
+    //  img: LinkedInIcon,
+    //  url: "https://www.linkedin.com/in/chinmay-raut-09307a15a/",
+    //},
+    //{
+    //  img: behanceIcon,
+    //  url: "https://www.behance.net/chinmayraut1",
+    //},
+    //{
+    //  img: instagramIcon,
+    //  url: "https://www.instagram.com/rautchinmay19/",
+   // },
+  //],
 
   // End Contact Section ---------------
 }
