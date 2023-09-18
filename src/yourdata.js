@@ -39,7 +39,7 @@ export default {
   name: "Chinmay.",
   headerTagline: [
     //Line 1 For Header
-    "I like to",
+    "I am Chinmay",
     //Line 2 For Header
     "build products",
     //Line 3 For Header
