@@ -147,9 +147,9 @@ export default {
 
   skills: [
     {
-      img: jsIcon,
+      img: designIcon,
       para:
-        "I've used JavaScript, HTML and CSS immensely to create meaningful web experiences. I'm skilled in libraries like React, Vue, and three.js.",
+        "I have experience writing for the entrepreneurship magazine of IIT Madras. I have participated in many writing and screenwriting competitions. I mostly write about tech and behavioural pychology apart from speculative ficiton.",
     },
     {
       img: pythonIcon,
@@ -191,7 +191,7 @@ export default {
 
   contactSubHeading: "Here's to meaningful conversations",
   social: [
-    // Add Or Remove The Link Accordingly
+     Add Or Remove The Link Accordingly
     { 
       img: githubIcon,
       url: "https://github.com/ViciousDove19" 
