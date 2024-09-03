@@ -184,7 +184,7 @@ export default {
 
   promotionHeading: "Connect",
   promotionPara:
-    "If you have a project in your mind where I could help or want to contribute to any of my projects, do reach out. I believe the world could be changed if the right people come together. Looking forward to an exciting conversation.",
+    "If you have a project in mind where I could help or want to contribute to any of my projects, do reach out. I believe the world could be changed if the right people come together. Looking forward to an exciting conversation.",
   // End Promotion Section -----------------
 
   //   Contact Section --------------
