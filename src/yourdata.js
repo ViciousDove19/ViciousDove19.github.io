@@ -191,7 +191,6 @@ export default {
 
   contactSubHeading: "Here's to meaningful conversations",
   social: [
-     Add Or Remove The Link Accordingly
     { 
       img: githubIcon,
       url: "https://github.com/ViciousDove19" 
