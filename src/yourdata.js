@@ -47,7 +47,7 @@ export default {
   ],
   //   Header Paragraph
   headerParagraph:
-    "I'm a fourth year undergraduate currently pursuing a dual degree in Engineering Design at IIT Madras.",
+    "I currently work as a product analyst at Ather Energy.",
 
   //Contact Email
   contactEmail: "rautchinmay19@gmail.com",
